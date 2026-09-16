@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Latihan tabel</title>
+    </head>
+    <body>   
+        <table border="10" width="400px" align="center">
+            <tr>
+                <th colspan="2" style=color:white bgcolor="teal">Apel</th>
+                
+                <th rowspan="2" style=color:white bgcolor="teal">Cerry</th>
+            </tr>
+            <tr>
+                <th style=color:teal>Delima</th>
+                <th style=color:teal>Ebi</th>
+                
+            </tr>
+        </table>
+        <img src="kucing.jpg" width="300">
+    </body>
+</html>
